@@ -272,7 +272,6 @@ a {
         padding: 50px;
         white-space: nowrap;
         width: 40%;
-        
     }
 
     .boxBorder_texto, .suaHistoria_paragrafo, .Historia_paragrafo{
@@ -319,6 +318,8 @@ a {
     .header_button{
         font-size: 15px;
         padding: 10px;
+        white-space: nowrap;
+        width: 20%;
     }
 
     .suaHistoria_imagem, .Historia_imagem{
